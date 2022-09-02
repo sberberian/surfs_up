@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the midst of business strategy for a surf shop, these temperature analyses were collected for Oahu's December and June months to ensure stability deespite seasonal changes. 
+In the midst of business strategy for a surf shop, these temperature analyses were collected for Oahu's December and June months to ensure stability despite seasonal changes. 
 
 ## Results
 
